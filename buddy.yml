@@ -1,4 +1,4 @@
-- pipeline: "qdeetigsif"
+- pipeline: "kehpihtboo"
   trigger_mode: "ON_EVERY_PUSH"
-  ref_type: "WILDCARD"
-  ref_name: "*"
+  ref_type: "TAG"
+  ref_name: "v64"
