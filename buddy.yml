@@ -1,4 +1,5 @@
-- pipeline: "jibeendwfv"
+- pipeline: "yvevvjbrxv"
   trigger_mode: "SCHEDULED"
-  ref_type: "NONE"
+  ref_type: "BRANCH"
+  ref_name: "master"
   cron: "5 * * * *"
