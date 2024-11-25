@@ -1,5 +1,5 @@
-- pipeline: "uplsiojhcc"
+- pipeline: "ytplpnvtyw"
   trigger_mode: "SCHEDULED"
-  ref_type: "WILDCARD"
-  ref_name: "*"
+  ref_type: "TAG"
+  ref_name: "v218"
   cron: "5 * * * *"
