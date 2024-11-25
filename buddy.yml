@@ -1,4 +1,4 @@
-- pipeline: "kehpihtboo"
-  trigger_mode: "ON_EVERY_PUSH"
-  ref_type: "TAG"
-  ref_name: "v64"
+- pipeline: "epvbyfewwt"
+  trigger_mode: "MANUAL"
+  ref_type: "NONE"
+  trigger_condition: "ALWAYS"
